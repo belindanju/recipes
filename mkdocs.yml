@@ -11,7 +11,8 @@ copyright: Copyright &copy; 2023 Tian Guo
 nav: 
   - Home: index.md
   - Beef: 
-    - Black Pepper Beef Stir Fry: meat/black_pepper_beef_stir_fry.md
+    - Black Pepper Beef Stir Fry: meat/black_pepper_beef_stir_fry.md 
+    - Smash Burger: meat/smash_burger.md
   - Cocktails: 
     - Mint Julep: cocktails/mint_julep.md
   
