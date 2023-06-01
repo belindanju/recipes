@@ -15,7 +15,8 @@ nav:
     - Smash Burger: meat/smash_burger.md
   - Cocktails: 
     - Mint Julep: cocktails/mint_julep.md
-  
+  - Drinks:
+    - Mango Smoothie: drinks/mango_smoothie.md
 
 theme:
   name: material
